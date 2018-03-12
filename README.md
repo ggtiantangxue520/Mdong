@@ -1,6 +1,6 @@
 # dongman
 
-> A Vue.js project
+> 这是一个个人制作的动漫有声漫画音乐网站。
 
 ## Build Setup
 
